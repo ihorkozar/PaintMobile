@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paint Mobile</string>
+    <string name="canvasContentDescription">Paint Mobile is a simple drawing app.
+   Drag your fingers to draw. Rotate the phone to clear.</string>
+</resources>
